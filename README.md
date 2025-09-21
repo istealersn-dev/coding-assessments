@@ -1,4 +1,4 @@
-# CodeSignal Problems Collection
+# Coding Assessments Collection
 
 This repository contains a collection of coding problems organized for interview use. Files were normalized and organized without modifying their contents.
 
@@ -13,4 +13,3 @@ This repository contains a collection of coding problems organized for interview
 ## Quick Start
 - Browse problems under `problems/`.
 - Use `INTERVIEW_README_TEMPLATE.md` (also copied to `templates/`) to create per‑exercise instructions.
-
