@@ -23,3 +23,6 @@ logs/
 .env
 .env.local
 
+
+scripts/
+
